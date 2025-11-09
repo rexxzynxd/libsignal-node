@@ -1,8 +1,8 @@
 {
-  "name": "@whiskeysockets/libsignal-node",
-  "version": "2.0.1",
+  "name": "@rexxhayanasi/elaina-libsignal",
+  "version": "1.0.2",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "WhiskeySockets/libsignal-node",
+  "repository": "RexxHayanasi/libsignal-node",
   "main": "index.js",
   "types": "index.d.ts",
   "keywords": [
